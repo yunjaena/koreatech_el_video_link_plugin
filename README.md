@@ -1,4 +1,5 @@
-# 한국기술교육대학교 EL 비디오 링크 플러그인
+# 한국기술교육대학교 EL 비디오 링크 플러그인 ![Chrome Web Store](https://img.shields.io/chrome-web-store/users/agmicdnbfllpamebgapjhkejmalfglip)
+
 
 ## [Chrome 웹 스토어 다운로드 링크](https://chrome.google.com/webstore/detail/%ED%95%9C%EA%B8%B0%EB%8C%80-el-%EB%8F%99%EC%98%81%EC%83%81-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EB%A7%81%ED%81%AC/agmicdnbfllpamebgapjhkejmalfglip)
 
